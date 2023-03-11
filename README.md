@@ -10,10 +10,10 @@
 1. **Message system**
 - Allows users to input chat messages and broadcast messages to other players. Also displays gameplay message (turn, cards played) to all players.
 
-2. **Game control system** (*Requirement 1*)
+2. **Game control system**
 - Intuitive card selection mechanism and useful menu bar, allowing player to immense fully.
 
-3. **Hidden system** (*Requirement 1*)
+3. **Hidden system**
 - Try to figure out the easter egg embedded in this game!
 
 ### Quick Start
