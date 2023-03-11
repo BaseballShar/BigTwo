@@ -1,4 +1,4 @@
-# BigTwo-Java
+# BigTwo
 
 ### Description:
 - This is a card game, which its sole objective is to be the first player to play all cards.
