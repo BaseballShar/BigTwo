@@ -19,7 +19,7 @@
 ### Quick Start
 1. Open terminal
 2. Navigate to the game folder
-3. Enter *./play.sh*
+3. Enter *chmod u+x play.sh*, then *./play.sh*.
 4. Click to select cards and press "Play", or press "Pass" to skip.
 5. Enter in the text box in the bottom and press the Enter key to send.
 6. Press "Game" in the menu bar to either restart or quit.
